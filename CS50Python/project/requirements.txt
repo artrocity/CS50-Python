@@ -1,0 +1,15 @@
+The following libraries/modules are required for the correct implementation and usage of this program:
+
+Libraries
+import random # https://docs.python.org/3/library/random.html
+import string # https://docs.python.org/3/library/string.html
+
+from cryptography.fernet import Fernet # https://www.geeksforgeeks.org/fernet-symmetric-encryption-using-cryptography-module-in-python/
+import bcrypt # https://pypi.org/project/bcrypt/
+
+import getpass  # https://docs.python.org/3/library/getpass.html
+import pyperclip # https://pyperclip.readthedocs.io/en/latest/index.html#not-implemented-error
+from rich import print as rprint # https://github.com/Textualize/rich/blob/master/README.md
+
+
+
